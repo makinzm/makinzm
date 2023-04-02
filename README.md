@@ -20,7 +20,7 @@
     </td>
 </table>
 
-<style>
+<!-- <style>
 
 @media screen and (max-width: 600px) {
     td {
@@ -37,4 +37,4 @@
   }
 }
 
-</style>
+</style> -->
