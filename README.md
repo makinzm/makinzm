@@ -1,6 +1,6 @@
 <p cass="big" style="font-size: 4vw;"> Hi, call me Nozomi 👋</p>
 
-<p class="small" style="font-size: 3vw;">:: more info :: <a href="https://makinzm.github.io/my-profile/">https://makinzm.github.io/my-profile/</a></p>
+<p class="small" style="font-size: 3vw;">:: more info :: <a href="https://makinzm.github.io/my-profile-old/">https://makinzm.github.io/my-profile/</a></p>
 
 <table>
   <tr>
