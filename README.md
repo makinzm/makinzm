@@ -8,7 +8,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=makinzm&count_private=true&theme=cobalt" alt="I often create issues I don't understand." width="100%" />
     </td>
     <td class="col-sm-4">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makinzm&exclude_repo=my-profile-old&hide=Jupyter%20Notebook&layout=donut" alt="Language I used." width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makinzm&exclude_repo=my-profile-old&hide=Jupyter%20Notebook&html&layout=donut" alt="Language I used." width="100%" />
     </td>
   </tr>
 </table>
