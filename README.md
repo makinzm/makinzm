@@ -17,7 +17,7 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makinzm&theme=transparent" alt="Recent Activity" width="100%"/>
     </td>
     <td style="width: 100%;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makinzm&theme=default&utcOffset=8" alt="Times" width="100%"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makinzm&theme=default&utcOffset=9" alt="Times" width="100%"/>
     </td>
   </tr>  
 </table>
