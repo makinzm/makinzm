@@ -38,5 +38,5 @@ jobs:
           plugin_rss: yes
           plugin_rss_url: https://qiita.com/making111/feed
           plugin_annilist: yes
-          annilist_username: makinzm
+          plugin_annilist_username: makinzm
 
