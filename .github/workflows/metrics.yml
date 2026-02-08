@@ -36,7 +36,7 @@ jobs:
           plugin_languages_ignore: HTML, CSS, notebook
 
           plugin_rss: yes
-          plugin_rss_url: https://qiita.com/making111/feed
+          plugin_rss_source: https://qiita.com/making111/feed
           plugin_annilist: yes
           plugin_annilist_username: makinzm
 
