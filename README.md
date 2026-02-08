@@ -1,11 +1,5 @@
 # Hi, I'm Nozomi 👋
 
-### 🐍 Contribution Activity
-<p align="center">
-  <img src="./github-contribution-grid-snake.svg" alt="Snake" width="85%" />
-</p>
-
----
 
 ### 📊 Professional Metrics
 <p align="center">
