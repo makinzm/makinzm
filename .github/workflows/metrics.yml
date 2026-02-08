@@ -33,10 +33,10 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
-          plugin_languages_ignore: HTML, CSS, notebook
+          plugin_languages_ignore: HTML, CSS, Jupyter Notebook
 
           plugin_rss: yes
           plugin_rss_source: https://qiita.com/making111/feed
-          plugin_annilist: yes
-          plugin_annilist_username: makinzm
+          plugin_anilist: yes
+          plugin_anilist_username: makinzm
 
