@@ -1,9 +1,5 @@
 # Hi, I'm Nozomi 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=Nozomi's%20Development%20Log&fontSize=40" width="100%" />
-</p>
-
 ### 🐍 Contribution Activity
 <p align="center">
   <img src="./github-contribution-grid-snake.svg" alt="Snake" width="85%" />
